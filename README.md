@@ -1,9 +1,16 @@
-# How to set up Github Pages with Google domains #
+# GlieseSoft Website
+
+## Urls
 
 - https://scunck.github.io/
-- http://exchangeblock.io/
+- http://exchangeblock.io/ (not recommended)
 
-## References ##
+## How to set up Github Pages with GoDaddy domains?
+
+- https://medium.com/@supriyakankure/how-to-add-a-custom-domain-to-your-github-page-with-godaddy-84495781143e
+- https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b
+
+## How to set up Github Pages with Google domains?
 
 - https://pages.github.com/
 - https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b
