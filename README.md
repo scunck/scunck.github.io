@@ -3,7 +3,7 @@
 ## Urls
 
 - https://scunck.github.io/
-- http://exchangeblock.io/ (not recommended)
+- http://beeptop.com/
 
 ## How to set up Github Pages with GoDaddy domains?
 
